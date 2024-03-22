@@ -3,7 +3,7 @@ const INFO = {
 		title: "My Portfolio",
 		name: "Sharipov Islombek",
 		email: "tawkenskiy000@gmail.com",
-		logo: "../logomy.jpg",
+		logo: "https://i.postimg.cc/pd1gh3rB/photo-2024-03-01-17-31-08.jpg",
 	},
 
 	socials: {
